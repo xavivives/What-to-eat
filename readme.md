@@ -1,4 +1,4 @@
-This is an under constrution post. If you have any comment it will be more than welcome.
+    This is an under constrution post. If you have any comment it will be more than welcome.
 
 In the past months I found myself dicussing  about food with almost everyone every single day. Its clear that there is a rise of awareness but with it, it comes, a rise of confusion. The amount of noise about what is "right" or "wrong" is just insane. What to eat is probably the widdest discussed subject in our society and one of our biggest problems we face.
 
@@ -17,12 +17,12 @@ We are the product of millions of years of natural evolution. There is a reason 
 There are several factors that distort our natural instint to choose wisely.
 
 ###Information overload
-There is so much noise.
+There is so much noise. Everyone have its own theories.
 
 ###The industry
 Its key to understand that the food industry is not your friend. Except for very few, their goal is to sell to you as much stuff as they can. 
 They are powerful and make use of main stream media to overload us with missleading statements and labeling.  And because its on TV they can't lie, right? EFSA and FDA, the european and american organisms to regulate and fight for our food safty are far away from doing their job. 
-
+ 
 
 ###Culture
 What we always thought was right maybe wrong, really wrong. Food is a key part of any cuture. If you change your diet, you will be constantly questioned and asked for explanations, you won't find the "right" food in the stores or restaurants,  and you will have to cook yourself and start rethinking all the recepies you know...
