@@ -4,7 +4,7 @@ In the past months I found myself dicussing  about food with almost everyone eve
 
 With this post I want to provide a macro prespective of food. Give fundamental arguments, distilled information and  provide resources that can be use as an overall guidance to take better decisions.
 
-**I have no expertise in any of the related areas I'm about to touch. Don't trust me. Common sense and the internet are your best friends.** This blog post is just an starting point.
+**I have no expertise on any of the related areas I'm about to touch. Don't trust me. Common sense and the internet are your best friends.** This blog post is just an starting point.
 
 #What to eat
 
@@ -19,18 +19,19 @@ There are several factors that distort our natural instint to choose wisely.
 ###Information overload
 
 ####False  ilusion of understanding
-Do you really understand what  vitamins, probiotics or antioxidants are? How they work? Most of us, don't. Industry and professionals use all these technical terms to justify their explanations. And we turst them (what else should we do?), their explanation "makes sense".  But we haven't understood anything. We just created an ilusion that we understand what this food will do in our bodies. So we can't justify or diatary choices other than "Because they say so".
+Do you really understand what  vitamins, probiotics or antioxidants are? How they work? Most of us, don't. The industry and professionals use all these technical terms to justify their explanations. And we turst them (what else should we do?), their explanation "makes sense".  But we haven't understood anything. We just created an ilusion that we understand what this food will do in our bodies. So we can't justify or diatary choices other than "Because they say so".
 
-####System trust fail
-I don't trust 99% of the "experts". Because the system we live on. It pushes them to deliver instant result from just an snapshot of our current state or otherwise they don't get paid. Lots of them also have found a comfortable spot on these sytem and they stopped learning. And we are talking about health. They will just play safe.
+####System trust failure
+####The experts
+I don't trust 99% of the "experts". Because the system we live on. It pushes them to deliver instant result from just an snapshot of our current state or otherwise they don't get paid. Lots of them also have found a comfortable spot on this sytem and they stopped learning. And we are talking about health. They will play safe using arguments accepted by the general public. 
 The result is that if you go to the doctor they'll likely will recomend stuff based on generic dietary guidlines from 30 years ago.
-
-####Inculture of information processing
-We are so not use to information overload. Because internet say so should we do it? Of course not.
-###The industry
+#####The industry
 Its key to understand that the food industry is not your friend. Except for very few, their goal is to sell to you as much stuff as they can. 
-They are powerful and make use of main stream media to overload us with missleading statements and labeling.  And because its on TV they can't lie, right? EFSA and FDA, the european and american organisms to regulate and fight for our food safty are far away from doing their job. 
- 
+They are powerful and make use of main stream media to overload us with missleading statements and labeling.  And because its on TV they can't lie, right? 
+EFSA and FDA, the european and american organisms to regulate and fight for our food safty are far away from doing their job. They serve the interest of the industry, not our health. And even if they want, they can't. Its just impossible to control food production, its to massive. There is just no way they can ensure the crops are not in an area where toxic waste was dumpt or that some farmer didn't put 10x the amount of pestiside allowed.
+
+#####Inculture of information processing
+We are so not use to information overload. So when we have to many or we are unable to fully understand it we simplify it by labeling as "good" or "bad". And there is not such a thing.  Something maybe better than some other thing in an specific context with specific quantities for an specific purpose. 
 
 ###Culture
 What we always thought was right maybe wrong, really wrong. Food is a key part of any cuture. If you change your diet, you will be constantly questioned and asked for explanations, you won't find the "right" food in the stores or restaurants,  and you will have to cook yourself and start rethinking all the recepies you know...
