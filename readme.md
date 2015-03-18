@@ -1,5 +1,16 @@
 `This is an under constrution post. If you have any comment it will be more than welcome.`
 
+What to eat
+  The Enemies
+	  Information overload
+		  False ilusion of understanding
+		  Inculture of Information processing
+	  System trust failure
+		  The experts
+		  The industry
+	  Culture
+	  Pleasure
+	  
 In the past months I found myself dicussing  about food with almost everyone every single day. Its clear that there is a rise of awareness but with it, it comes, a rise of confusion. The amount of noise about what is "right" or "wrong" is just insane. What to eat is probably the widdest discussed subject in our society and one of the biggest problems we face.
 
 With this post I want to provide a macro prespective of food. Give fundamental arguments, distilled information and  provide resources that can be use as an overall guidance to take better decisions.
@@ -11,7 +22,19 @@ With this post I want to provide a macro prespective of food. Give fundamental a
 `Nature is the source of all true knowledge. She has her own logic, her own laws, she has no effect without cause nor invention without necessity.`
 **-Leonardo da Vinci**
 
-We are the product of millions of years of natural evolution. There is a reason to be how we are. So we must be designed to eat specific things. What are these things? Why are we not eating them?
+We are so perfect! We are the product of millions of years of natural evolution. Every part of our body is designed with a purpose.  So we must be designed to eat specific things.
+
+The problem. In our search for confort we isolated ourself from the natural enviroment so much that we no longer know what these aliments are.
+The logic step then is to ask;
+What do we use to eat before we radically transformed our natural habitat?
+
+##What do we use to eat?
+About 15.000 years ago we invented agriculture and started the domestication of animals. These enabled us to stop being nomads and feed massive ammounts of people. We created the first civilitzations and we start eating legumes, diary products from animal domestication, and cereals.
+
+Before that we were a hunter gathering society. 
+
+In the last 50 years. We did another dramatic change on our food culture. We created a massive food industry that 
+
 
 ##The enemies
 There are several factors that distort our natural instint to choose wisely.
@@ -43,6 +66,9 @@ We live in a society where instant gratification is the rule, and sacrifacing mo
 
 Gratification when eating is one of the ways nature have tell our body what and when to eat. And it had worked for thousands of years. Not anymore. We deformed our enviroment to isolate ourselfs from the external factors in exchange for confort. And with isolation we lost our natural instinct. What our brain tells us is good  (sugar?) maybe just poison. I'll go further with this subject later on.
 
+####Carbohidrates
+
 //With inteligence we create technology. And we use it to improve our lifes. At some point our primary needs got satisfied and then we stared using tecnology to create confort. Then everything got fucked up.
 
-
+##The Paleo Answer
+You've probably heard about the Paleo diet. It aims to replicate what our ancestors use to eat before we invented civilitzation.
