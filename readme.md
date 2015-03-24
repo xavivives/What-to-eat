@@ -39,18 +39,28 @@ But when happen when we don't eat enough carbohidrates? Then we get in to **keto
 
 So, that basically means you have virtually infinite energy (If you are an average american your body fat is probably between 20% to 30% of your body mass, so you will have energy for a long while)
 
-###Atlethic performance
-The first time I heard the word "ketosis" was in [this video](https://www.youtube.com/watch?v=NqwvcrA7oe8) from Petter Attia.
+###Ultra endurance
+At that time I was fascinated with the idea behind the endurance running hypothesis:
 
-By that time I was fascinated with the idea behind the endurance running hypothesis:
-
-I had read [Bernd Henrich](http://en.wikipedia.org/wiki/Bernd_Heinrich)'s book [Why we run](http://en.wikipedia.org/wiki/Why_We_Run) and [Christopher's McDougall](http://en.wikipedia.org/wiki/Christopher_McDougall)'s [Born to run](http://en.wikipedia.org/wiki/Born_to_Run:_A_Hidden_Tribe,_Superathletes,_and_the_Greatest_Race_the_World_Has_Never_Seen) where they suggest that we are super machines for ultra long distance running.
+I had read Bernd Heinrich's book [Why we run](http://en.wikipedia.org/wiki/Why_We_Run) and Christopher's McDougall's [Born to run](http://en.wikipedia.org/wiki/Born_to_Run:_A_Hidden_Tribe,_Superathletes,_and_the_Greatest_Race_the_World_Has_Never_Seen) where they suggest that we are super machines for ultra long distance running.
 
 The endurance running hypothesis is the hypothesis that the evolution of certain human characteristics can be explained as adaptations to long distance running. The hypothesis suggests that endurance running played an important role for early hominins in obtaining food. Researchers have proposed that endurance running began as an adaptation for scavenging and later for persistence hunting.
 
 [-Wikipedia, Endurance running hypothesis](http://en.wikipedia.org/wiki/Endurance_running_hypothesis)
 
 
+But in their explanations there was a missing piece. How did they fuel? You can't just run for hours chasing animals at the hottest time of the day...
+
+[Bernd Heinrich](http://en.wikipedia.org/wiki/Bernd_Heinrich), explains that to set the 100miles world record, he fueled himself with Cranberry Juice.
+**Soon after you run over 20km you will start running out of energy. About 90minutes of exercicing is when our bodies will run out of glycogen. [CHECK DATA]**
+I don't think our ancestors had a support team feeding the hunters with juices or energy bars every few kilometers, they were running to get food in the first place...
+
+---
+The first time I heard the word "ketosis" was in [this video](https://www.youtube.com/watch?v=NqwvcrA7oe8) from Petter Attia.
+The video is very technical and I did not understand half of it, and still I do not understand it now, but I got the basic idea of ketosis.
+Now the *endurance running hypothesis* made sense. Humans were able to run hundrets of kilometers because were using fat as a source of energy and not the glycogen from carbohidrates.
+
+Since I saw this video about an year an a half ago I became fascinated with ketosis. And this was just the start.
 
 
 ---
