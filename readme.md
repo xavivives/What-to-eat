@@ -1,16 +1,16 @@
 `This is an under constrution post. If you have any comment it will be more than welcome.`
 
 What to eat
-  The Enemies
-	  Information overload
-		  False ilusion of understanding
-		  Inculture of Information processing
-	  System trust failure
-		  The experts
-		  The industry
-	  Culture
-	  Pleasure
-	  
+The Enemies
+Information overload
+False ilusion of understanding
+Inculture of Information processing
+System trust failure
+The experts
+The industry
+Culture
+Pleasure
+
 In the past months I found myself dicussing  about food with almost everyone every single day. Its clear that there is a rise of awareness but with it, it comes, a rise of confusion. The amount of noise about what is "right" or "wrong" is just insane. What to eat is probably the widdest discussed subject in our society and one of the biggest problems we face.
 
 With this post I want to provide a macro prespective of food. Give fundamental arguments, distilled information and  provide resources that can be use as an overall guidance to take better decisions.
@@ -24,16 +24,47 @@ With this post I want to provide a macro prespective of food. Give fundamental a
 
 We are so perfect! We are the product of millions of years of natural evolution. Every part of our body is designed with a purpose.  So we must be designed to eat specific things.
 
+##The magic of Ketosis
+Ketosis /kɨˈtoʊsɨs/ is a metabolic state where most of the body's energy supply comes from ketone bodies in the blood, in contrast to a state of glycolysis where blood glucose provides most of the energy.
+...
+
+During the usual overnight fast the body's metabolism naturally switches into ketosis, and will switch back to glycolysis after a carbohydrate-rich meal. Longer-term ketosis may result from fasting or staying on a low-carbohydrate diet, and deliberately induced ketosis serves as a medical intervention for intractable epilepsy.In glycolysis higher levels of insulin promote storage of body fat and block release of fat from adipose tissues, while in ketosis fat reserves are readily released and consumed.For this reason ketosis is sometimes referred to as the body's "fat burning" mode.
+
+[**-Wikipedia, Ketosis**](http://en.wikipedia.org/wiki/Ketosis)
+
+Let's make it more simple.
+When I use to play basketball my mum always made sure I eat a big plate of pasta before the match. Carbohidrates are an amazing resource of energy.
+While we eat enough of them we will be in a **glycolysis** state. That means that our energy will come directly from the carbohidrates and the leftovers will be converted into fat.
+But when happen when we don't eat enough carbohidrates? Then we get in to **ketosis** which does the exact opposite. In ketosis we convert our bodies fat in energy. An this is awesome.
+
+So, that basically means you have virtually infinite energy (If you are an average american your body fat is probably between 20% to 30% of your body mass, so you will have energy for a long while)
+
+###Atlethic performance
+The first time I heard the word "ketosis" was in [this video](https://www.youtube.com/watch?v=NqwvcrA7oe8) from Petter Attia.
+
+By that time I was fascinated with the idea behind the endurance running hypothesis:
+
+I had read [Bernd Henrich](http://en.wikipedia.org/wiki/Bernd_Heinrich)'s book [Why we run](http://en.wikipedia.org/wiki/Why_We_Run) and [Christopher's McDougall](http://en.wikipedia.org/wiki/Christopher_McDougall)'s [Born to run](http://en.wikipedia.org/wiki/Born_to_Run:_A_Hidden_Tribe,_Superathletes,_and_the_Greatest_Race_the_World_Has_Never_Seen) where they suggest that we are super machines for ultra long distance running.
+
+The endurance running hypothesis is the hypothesis that the evolution of certain human characteristics can be explained as adaptations to long distance running. The hypothesis suggests that endurance running played an important role for early hominins in obtaining food. Researchers have proposed that endurance running began as an adaptation for scavenging and later for persistence hunting.
+
+[-Wikipedia, Endurance running hypothesis](http://en.wikipedia.org/wiki/Endurance_running_hypothesis)
+
+
+
+
+---
+
 The problem. In our search for confort we isolated ourself from the natural enviroment so much that we no longer know what these aliments are.
 The logic step then is to ask;
 What do we use to eat before we radically transformed our natural habitat?
 
 ##What do we use to eat?
-About 15.000 years ago we invented agriculture and started the domestication of animals. These enabled us to stop being nomads and feed massive ammounts of people. We created the first civilitzations and we start eating legumes, diary products from animal domestication, and cereals.
+About 15.000 years ago we invented agriculture and started the domestication of animals. These enabled us to stop being nomads and feed massive ammounts of people. We created the first civilitzations and we start eating legumes, diary, and cereals.
 
 Before that we were a hunter gathering society. 
 
-In the last 50 years. We did another dramatic change on our food culture. We created a massive food industry that 
+In the last 50 years. We did another dramatic change on our food culture. We created a massive food industry that serves us with super tasty, long lasting, fast and easy to use food.
 
 
 ##The enemies
