@@ -1,16 +1,5 @@
 `This is an under constrution post. If you have any comment it will be more than welcome.`
 
-What to eat
-  The Enemies
-	  Information overload
-		  False ilusion of understanding
-		  Inculture of Information processing
-	  System trust failure
-		  The experts
-		  The industry
-	  Culture
-	  Pleasure
-	  
 In the past months I found myself dicussing  about food with almost everyone every single day. Its clear that there is a rise of awareness but with it, it comes, a rise of confusion. The amount of noise about what is "right" or "wrong" is just insane. What to eat is probably the widdest discussed subject in our society and one of the biggest problems we face.
 
 With this post I want to provide a macro prespective of food. Give fundamental arguments, distilled information and  provide resources that can be use as an overall guidance to take better decisions.
