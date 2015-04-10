@@ -15,7 +15,7 @@ In the past months I found myself dicussing  about food with almost everyone eve
 
 With this post I want to provide a macro prespective of food. Give fundamental arguments, distilled information and  provide resources that can be use as an overall guidance to take better decisions.
 
-**I have no expertise on any of the related areas I'm about to touch. Don't trust me. Common sense and the internet are your best friends.** This blog post is just an starting point.
+**I have no expertise on any of the related areas I'm about to touch. Don't trust me. Common sense and not-over-simplified information (aka books) are your best friends.** This blog post is just an starting point.
 
 #What to eat
 
@@ -24,20 +24,50 @@ With this post I want to provide a macro prespective of food. Give fundamental a
 
 We are so perfect! We are the product of millions of years of natural evolution. Every part of our body is designed with a purpose.  So we must be designed to eat specific things.
 
+I'll cover the most important concepts that define what should we eat and have a more impact on our health and lifes. Without doubt the first one is Ketosis.
+
 ##The magic of Ketosis
-    Ketosis /kɨˈtoʊsɨs/ is a metabolic state where most of the body's energy supply comes from ketone bodies in the blood, in contrast to a state of glycolysis where blood glucose provides most of the energy.
-...
+The benefits of Ketosis are so radical that I felt I was presenting an infocomercial when I was writting this. 
+
+###What is ketosis?
+
+    Ketosis /kɨˈtoʊsɨs/ is a metabolic state where most of the body's energy supply comes from ketone bodies in the blood, in contrast to a state of glycolysis where blood glucose provides most of the energy
+    ...
 
     During the usual overnight fast the body's metabolism naturally switches into ketosis, and will switch back to glycolysis after a carbohydrate-rich meal. Longer-term ketosis may result from fasting or staying on a low-carbohydrate diet, and deliberately induced ketosis serves as a medical intervention for intractable epilepsy.In glycolysis higher levels of insulin promote storage of body fat and block release of fat from adipose tissues, while in ketosis fat reserves are readily released and consumed.For this reason ketosis is sometimes referred to as the body's "fat burning" mode.
 
 [**-Wikipedia, Ketosis**](http://en.wikipedia.org/wiki/Ketosis)
 
-Let's make it more simple.
-When I use to play basketball my mum always made sure I eat a big plate of pasta before the match. Carbohidrates are an amazing resource of energy.
-While we eat enough of them we will be in a **glycolysis** state. That means that our energy will come directly from the carbohidrates and the leftovers will be converted into fat.
-But when happen when we don't eat enough carbohidrates? Then we get in to **ketosis** which does the exact opposite. In ketosis we convert our bodies fat in energy. An this is awesome.
+Let's make it simpler.
+When I use to play basketball my mum always made sure I eat a big plate of pasta before the match. Carbohydrates are an amazing resource of energy.
+While we eat enough of them we will be in a **glycolysis** state. That means that our energy will come directly from the carbohydrates and the leftovers will be converted into fat.
+But what happens when we don't eat enough carbohydrates? Then we get in to **ketosis** which does the exact opposite. In ketosis we convert our body fat in energy. This have to direct effects :
 
-So, that basically means you have virtually infinite energy (If you are an average american your body fat is probably between 20% to 30% of your body mass, so you will have energy for a long while)
+**Fat loss**: Your body gets converted in a fat burning machine. All the energy your body needs to run will come from fat (except your brain).
+
+**Infinite energy:** while you have some fat, you wont run out of energy. You may have sleep deprivation or muscular fatigue but you won't be tired because your are low on energy.
+
+These consequences by themself are amazing (lot more to come, don't leave!) ...but what happens with the carbohydrates then? Don't we need them?
+
+### What's wrong with Carbohidrates?
+
+We loooove carbohydrates (from now on CH). We are designed to love them! When we eat sugar (is a CH) our reward system activates , releasing dopamine and making us feel good and understand that sugar is great. That's why we like CH so much.
+
+####Are they good or bad?
+We (society) have a tendency in oversimplifing things and labeling them as "good" or "bad" and most of cases the response is "it depends".
+
+We need them. Our brain runs enterly on 
+
+Imagine how lifes were a milion years ago. Getting food was hard. If it was a cold winter humans may not get food for days. Our body created systems to survive these periods of food scarcity:
+
+ - **A way to store energy:**  A.K.A. **Fat**. When we have abundance of energy we will just store it for when we need it.
+ -  **A way to generate energy from different sources**. If it runs out of energy it will start converting the fat back to energy and even proteins if necessary.
+ 
+Does are emergency systems
+
+
+As explained before CH were not aboundant, but they were powerful because they had a lot of energy. And we want energy! That's why our body want them
+
 
 ###Ultra endurance
 At that time I was fascinated with the idea behind the endurance running hypothesis:
